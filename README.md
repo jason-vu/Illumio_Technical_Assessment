@@ -5,4 +5,4 @@ How to run:
 
 Assumptions:
 The program only supports default log format, version 2 only.
-The logs are of type icmp, tcp, or udp. If additional protocol numbers are needed they can be inserted into the dictionary as necessary.
+The logs protocols are of type icmp, tcp, or udp. If additional protocols are needed they may be inserted into the dictionary as necessary.
